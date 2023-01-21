@@ -1,6 +1,7 @@
 In this project, let's build a **Planets App** by applying the concepts we have learned till now.
 
 ### Refer to the video below:
+https://assets.ccbp.in/frontend/content/react-js/planets-app-output.mp4
 
 <br/>
 <div style="text-align: center;">
